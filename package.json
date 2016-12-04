@@ -1,0 +1,21 @@
+{
+  "name": "prototype",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "create-react-app-sass": "^1.1.0",
+    "react-scripts": "0.8.0"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.1",
+    "react-router": "^3.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts-with-sass start",
+    "build": "react-scripts-with-sass build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

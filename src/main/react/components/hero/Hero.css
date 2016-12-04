@@ -1,0 +1,45 @@
+.hero {
+  background-color: #34495e;
+  color: white;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
+  text-align: center; }
+
+.hero-heading, .brand, .hero-button, .primary-button, .primary-button:focus, .primary-button:active, .hollow-button, .hollow-button:active, .primary-button, .hollow-button {
+  line-height: 25px;
+  margin-top: 0px; }
+
+.hero-heading {
+  padding-bottom: 30px;
+  font-size: 60px;
+  line-height: 60px; }
+
+.hero-button, .primary-button, .primary-button:focus, .primary-button:active, .hollow-button, .hollow-button:active {
+  color: white;
+  font-size: 16px;
+  letter-spacing: 2px;
+  padding: 12px 36px 12px 36px;
+  border: 1px solid white;
+  border-radius: 4px;
+  margin-left: 10px;
+  margin-right: 10px; }
+
+.hero-button:hover, .primary-button:hover, .hollow-button:hover, .hero-button:active, .primary-button:active, .hollow-button:active, .hero-button:focus, .primary-button:focus, .hollow-button:focus {
+  color: white;
+  text-decoration: none; }
+
+.primary-button:hover {
+  background-color: #2e9dff; }
+
+.hollow-button:hover {
+  background-color: rgba(255, 255, 255, 0.1); }
+
+.primary-button, .primary-button:focus, .primary-button:active {
+  background-color: #69b9ff;
+  border: 0px;
+  transition-duration: 0.4s;
+  text-decoration: none; }
+
+.hollow-button, .hollow-button:active {
+  background-color: transparent; }

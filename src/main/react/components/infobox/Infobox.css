@@ -1,0 +1,21 @@
+.infobox {
+  padding: 20px;
+  border: 1px solid #dcebf7;
+  border-radius: 4px;
+  margin-top: 20px; }
+
+.fa-stack {
+  font-size: 70px; }
+
+.infoiconback {
+  color: #69b9ff; }
+
+.infoicon {
+  color: white; }
+
+.ion-ios-clock-outline {
+  font-size: 50px; }
+
+.subtext {
+  text-transform: lowercase;
+  letter-spacing: 2px; }
